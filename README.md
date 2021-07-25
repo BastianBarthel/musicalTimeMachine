@@ -1,5 +1,5 @@
 # musicalTimeMachine
-A Python script that asks for a date, scraps the Billboard Top 100 for the given date and creates a Spotify playlist with the available songs.
+A Python script that scraps the Billboard Top 100 for a given date and creates a Spotify playlist with the available songs.
 
 ### Instructions:
 - Create a free Spotify account and open the developer dashboard
